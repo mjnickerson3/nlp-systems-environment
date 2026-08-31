@@ -1,0 +1,4 @@
+This is a sample text file for learning how to build my own tokenizer.
+This is very intimidating and fun!
+I'm excited and nervous!
+Yesterday at the store, I was shocked to see that I only spent $12.50. I thought it was going to be much more. My father-in-law was happy to get his box of apples on sale.
